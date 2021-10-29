@@ -1,0 +1,112 @@
+body {
+  margin: 0px 0px;
+  padding: 0px 0px;
+}
+.home {
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  padding-right: 4rem;
+  padding-left: 4rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+.opening {
+  padding-bottom: 8rem;
+  padding-right: 5rem;
+  padding-left: 5rem;
+  padding-top: 8rem;
+}
+
+.judul {
+  font-size: 70px;
+}
+
+.sub {
+  font-size: 20px;
+}
+
+.gambar {
+  float: right;
+  width: 500px;
+  padding-right: 10rem;
+}
+
+.about {
+  display: flex;
+  padding-right: 5rem;
+  padding-left: 5rem;
+  padding-top: 5rem;
+}
+.rounded {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.text-left {
+  padding-left: 5rem;
+  padding-right: 4rem;
+}
+
+.text-about {
+  box-sizing: border-box;
+  line-height: 1.75;
+  padding-bottom: 1rem;
+}
+
+.about h1 {
+  font-family: 'Montserrat';
+  font-size: 70px;
+  padding-left: 5rem;
+}
+.about h3 {
+  line-height: 1.5;
+  text-align: justify;
+  max-width: 550px;
+  font-size: 20px;
+  float: right;
+  font-family: 'Roboto';
+}
+
+.education h1 {
+  text-align: left;
+  font-family: 'Montserrat';
+  font-size: 50px;
+  padding-left: 10rem;
+}
+.education p {
+  font-family: 'Roboto';
+  font-size: 25px;
+  padding-left: 10rem;
+}
+
+.sub-skill {
+  font-family: 'Roboto';
+  font-size: 50px;
+  text-align: left;
+  gap: 30rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
+.sub-skill h2 {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+footer {
+  opacity: 0.5;
+  padding-left: 10rem;
+  padding-right: 10rem;
+  display: flex;
+  gap: 30px;
+}
+.footer-logo {
+  float: right;
+  display: flex;
+  padding-left: 40rem;
+  gap: 30px;
+}
+.contact {
+  float: left;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
